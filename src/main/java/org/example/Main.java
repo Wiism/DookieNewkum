@@ -7,7 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.printf("hiii");
+        System.out.print("hiii");
 
         appWindow window = new appWindow();
 
